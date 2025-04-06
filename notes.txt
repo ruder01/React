@@ -1,0 +1,5 @@
+map:    {arr.map(ele => <h1>{ele}</h1> )}
+
+conditional rendering:  { condition ?? html (what u want to print) }
+
+props : function name({item})    and  <name item={arr}  /> 
